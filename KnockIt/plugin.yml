@@ -1,0 +1,7 @@
+main: me.TookieDev.main.Main
+name: KnockIT
+author: TookieDev
+version: 1.0
+commands:
+  setspawn:
+  stats:
